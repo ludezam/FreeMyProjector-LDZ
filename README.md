@@ -97,3 +97,8 @@ Pacote: `br.com.ldz.freemyprojector` · versão: `1.2.0` · versionCode: `8` · 
 ## Créditos
 
 Derivado de [Free My TV](https://github.com/simbasjungles/free-my-tv), sob licença MIT, com adaptações do FreeMyTV LDZ. Fork não oficial; os avisos e termos originais estão em [LICENSE](LICENSE).
+
+## Projetos relacionados
+
+- [FreeMyTV LDZ](https://github.com/ludezam/FreeMyTV-LDZ) — home personalizada para Google TV e Android TV.
+- [Controle LDZ](https://github.com/ludezam/Controle-LDZ) — controle remoto local por Wi-Fi para Android TV e projetores Android.
